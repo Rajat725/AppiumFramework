@@ -59,3 +59,5 @@ c
 -src/test/java/com/qa/tests/CheckoutTests.java,5\4\54097aa4572d711a385c9481e485ee236460be0a
 \
 ,src/test/java/com/qa/tests/PaymentTests.java,c\7\c7e50f5a60d5714e2c9526531141920fc5ef5ccf
+[
++src/test/java/com/qa/tests/ReviewTests.java,2\6\26e6ae532be0d4031e3c56cfb1f9128910268b49

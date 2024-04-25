@@ -5,9 +5,10 @@ import com.qa.pages.*;
 import com.qa.utils.RandomTextGenerator;
 import org.testng.annotations.Test;
 
-public class PaymentTests extends BaseTest {
+public class ReviewTests extends BaseTest{
+
     @Test
-    public void validateSuccessPaymentTests() {
+    public void validateSuccessReviewTest() {
         ProductsPage productsPage = new ProductsPage();
         ProductDescPage productDescPage = productsPage.navigateToProductDescPage("Sauce Labs Bolt T-Shirt");
         productDescPage.setTotalCountOfProductToBuy(2);
@@ -35,7 +36,7 @@ public class PaymentTests extends BaseTest {
                 .setExpiryDate("03/25")
                 .setSecurityCode("123")
                 .clickReviewOrder();
-
+         SuccessPage successPage = reviewPage.clickPlaceOrderButton();
 
     }
 
