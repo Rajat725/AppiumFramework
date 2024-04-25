@@ -1,15 +1,4 @@
 
+|	java:S116"[Rename this field "TextAddressLine2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‚Úíýÿÿÿÿ8¤ä¿›ñ1
 Y
 java:S3252	"<Use static access with "org.openqa.selenium.By" for "xpath".(úî¯é8àçúòð1
-V
-java:S1068"4Remove this unused "textAddressLine1" private field.(‹»Èµûÿÿÿÿ8äëÞë1
-Y
-java:S1068"7Remove this unused "getTextAddressLine2" private field.(±ß÷Æüÿÿÿÿ8äëÞë1
-N
-java:S1068",Remove this unused "textCity" private field.(³Áóýÿÿÿÿ8žäëÞë1
-J
-java:S1068"-Remove this unused "textState" private field.(ÕíÊÑ8žäëÞë1
-L
-java:S1068"/Remove this unused "textZipCode" private field.(‚ÿÔŸ8žäëÞë1
-Q
-java:S1068"/Remove this unused "textCountry" private field.(äèŽ¨üÿÿÿÿ8žäëÞë1

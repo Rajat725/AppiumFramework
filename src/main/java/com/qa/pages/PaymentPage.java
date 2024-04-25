@@ -6,7 +6,8 @@ import org.openqa.selenium.By;
 
 public class PaymentPage extends BasicActions {
 
-    private final By titlePage = AppiumBy.accessibilityId("container header");
+    private final By titlePage = AppiumBy.xpath("//android.view.ViewGroup[@content-desc=\"container header\"]/android.widget.TextView");
+
     private final By txtFullName = AppiumBy.accessibilityId("Full Name* input field");
     private final By txtCardNumber = AppiumBy.accessibilityId("Card Number* input field");
     private final By txtExpirationDate = AppiumBy.accessibilityId("Expiration Date* input field");
