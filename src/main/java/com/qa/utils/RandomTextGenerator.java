@@ -1,6 +1,7 @@
 package com.qa.utils;
 
 import com.github.javafaker.Faker;
+import org.testng.annotations.Test;
 
 import java.util.Locale;
 
@@ -49,8 +50,11 @@ public final class RandomTextGenerator {
 
     public static String getCountry()
     {
+
         return faker.address().country();
     }
+
+
 
 
 }

@@ -57,3 +57,5 @@ c
 3src/main/java/com/qa/utils/RandomTextGenerator.java,e\4\e4a57f0c4c30c0b18c2f1d7e2205d104c711f1eb
 ]
 -src/test/java/com/qa/tests/CheckoutTests.java,5\4\54097aa4572d711a385c9481e485ee236460be0a
+\
+,src/test/java/com/qa/tests/PaymentTests.java,c\7\c7e50f5a60d5714e2c9526531141920fc5ef5ccf
