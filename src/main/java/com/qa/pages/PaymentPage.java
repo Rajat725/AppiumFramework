@@ -8,11 +8,11 @@ public class PaymentPage extends BasicActions {
 
     private final By titlePage = AppiumBy.xpath("//android.view.ViewGroup[@content-desc=\"container header\"]/android.widget.TextView");
 
-    private final By txtFullName = AppiumBy.accessibilityId("Full Name* input field");
-    private final By txtCardNumber = AppiumBy.accessibilityId("Card Number* input field");
-    private final By txtExpirationDate = AppiumBy.accessibilityId("Expiration Date* input field");
-    private final By txtSecurityCode = AppiumBy.accessibilityId("Security Code* input field");
-    private final By btnReviewOrder = AppiumBy.accessibilityId("Review Order button");
+    private final By txtFullName = AppiumBy.xpath("//android.widget.EditText[@content-desc=\"Full Name* input field\"]");
+    private final By txtCardNumber = AppiumBy.xpath("//android.widget.EditText[@content-desc=\"Card Number* input field\"]");
+    private final By txtExpirationDate = AppiumBy.xpath("//android.widget.EditText[@content-desc=\"Expiration Date* input field\"]");
+    private final By txtSecurityCode = AppiumBy.xpath("//android.widget.EditText[@content-desc=\"Security Code* input field\"]");
+    private final By btnReviewOrder = AppiumBy.xpath("//android.view.ViewGroup[@content-desc=\"Review Order button\"]");
 
 
     public ReviewPage clickReviewOrder() {
