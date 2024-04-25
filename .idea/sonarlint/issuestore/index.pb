@@ -55,3 +55,5 @@ Z
 *src/test/java/com/qa/tests/LoginTests.java,1\8\185880ca51aaeb19d414387d90bd8c9fda903389
 c
 3src/main/java/com/qa/utils/RandomTextGenerator.java,e\4\e4a57f0c4c30c0b18c2f1d7e2205d104c711f1eb
+]
+-src/test/java/com/qa/tests/CheckoutTests.java,5\4\54097aa4572d711a385c9481e485ee236460be0a
