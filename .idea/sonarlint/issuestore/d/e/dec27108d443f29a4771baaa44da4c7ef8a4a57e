@@ -1,0 +1,15 @@
+
+Y
+java:S3252	"<Use static access with "org.openqa.selenium.By" for "xpath".(úî¯é8àçúòğ1
+V
+java:S1068"4Remove this unused "textAddressLine1" private field.(‹»Èµûÿÿÿÿ8äëŞë1
+Y
+java:S1068"7Remove this unused "getTextAddressLine2" private field.(±ß÷Æüÿÿÿÿ8äëŞë1
+N
+java:S1068",Remove this unused "textCity" private field.(³Áóıÿÿÿÿ8äëŞë1
+J
+java:S1068"-Remove this unused "textState" private field.(ÕíÊÑ8äëŞë1
+L
+java:S1068"/Remove this unused "textZipCode" private field.(‚ÿÔŸ8äëŞë1
+Q
+java:S1068"/Remove this unused "textCountry" private field.(äè¨üÿÿÿÿ8äëŞë1
