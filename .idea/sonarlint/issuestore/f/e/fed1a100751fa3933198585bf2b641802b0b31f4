@@ -1,15 +1,0 @@
-
-U
-java:S2589"8Remove this expression which always evaluates to "false"(ì¿ß®8¯×‘ûî1
->
-java:S5164"Call "remove()" on "server".(ôÃúéøÿÿÿÿ8³×‘ûî1
-^
-java:S1075."ARefactor your code to get this URI from a customizable parameter.(§Öº‘8¿×‘ûî1
-^
-java:S1075/"ARefactor your code to get this URI from a customizable parameter.(ÖÊÈâ8¿×‘ûî1
-b
-java:S1854@"@Remove this useless assignment to local variable "serverSocket".(èùÃ¨ùÿÿÿÿ8À×‘ûî1
-L
-java:S20939"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ã×‘ûî1
-\
-java:S1144,"?Remove this unused private "getCustomisezServerService" method.(ÓÓ8Ã×‘ûî1
