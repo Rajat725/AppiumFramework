@@ -61,3 +61,10 @@ c
 ,src/test/java/com/qa/tests/PaymentTests.java,c\7\c7e50f5a60d5714e2c9526531141920fc5ef5ccf
 [
 +src/test/java/com/qa/tests/ReviewTests.java,2\6\26e6ae532be0d4031e3c56cfb1f9128910268b49
+\
+,src/test/java/com/qa/tests/SuccessTests.java,7\a\7a509006f3cea2e72667d37529b5572dfbe1d91d
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
